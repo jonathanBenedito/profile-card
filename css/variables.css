@@ -1,0 +1,9 @@
+:root {
+  --background-color: hsl(185, 75%, 39%);
+  --text-color: hsl(227, 10%, 46%);
+
+  --card-bg-color: white;
+  --font-family: 'Kumbh Sans', sans-serif;
+  --font-main-weight: 700;
+  --font-label-weight: 400;
+}
